@@ -1,5 +1,5 @@
   var a= "1000";
-  var b= 146;
+  var b= 146.2328;
 
 function add(a,b) {
  return (a+b)
@@ -29,6 +29,6 @@ function  makeInt(a) {
   return parseInt(a)
 }
 
-function makeInt(0x) {
-  return 
+function makeInt(b) {
+  return parseInt(b, 10)
 }
