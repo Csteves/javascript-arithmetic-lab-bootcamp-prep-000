@@ -18,5 +18,5 @@ function divide(a,b) {
 }
 
 function inc(n) {
-  retun (a+=1)
+  return (a+=1)
 }
