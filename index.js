@@ -1,4 +1,4 @@
-  var a= 1000;
+  var a= "1000";
   var b= 146;
 
 function add(a,b) {
@@ -26,5 +26,5 @@ function dec(a) {
 }
 
 function  makeInt(a) {
-  return 
+  return parseInt(a)
 }
