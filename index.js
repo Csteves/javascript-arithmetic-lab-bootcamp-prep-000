@@ -14,5 +14,5 @@ function multiply(a,b) {
 }
 
 function divide(a,b) {
-  retun (a/b)
+  return (a/b)
 }
