@@ -29,6 +29,6 @@ function  makeInt(a) {
   return parseInt(a)
 }
 
-function makeInt() {
+function makeInt(0x) {
   return 
 }
