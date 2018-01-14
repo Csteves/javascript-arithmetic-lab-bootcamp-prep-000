@@ -1,5 +1,5 @@
-  var a= 5
-  var b= 10
+  var a= 1000
+  var b= 1000
 
 function add(a, b) {
  a+=b
